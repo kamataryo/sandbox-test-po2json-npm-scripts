@@ -1,0 +1,14 @@
+{
+  "name": "sandbox-test-po2json-npm-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "po2json ./ja.po ./ja.jon"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "po2json": "^1.0.0-alpha"
+  }
+}
